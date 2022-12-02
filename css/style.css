@@ -1663,7 +1663,7 @@ body {
   font-size: 16px;
   line-height: 1.8;
   font-weight: 400;
-  color: #999999; }
+  color: #000000; }
 
 a {
   -webkit-transition: .3s all ease;
@@ -1678,7 +1678,7 @@ a {
 h1, h2, h3, h4, h5,
 .h1, .h2, .h3, .h4, .h5 {
   line-height: 1.5;
-  color: white;
+  color: #0D79AE;
   font-weight: 400; }
 
 .ftco-navbar-light {
@@ -1794,7 +1794,7 @@ h1, h2, h3, h4, h5,
     left: 0;
     top: 0;
     margin-top: -130px;
-    background: #fff !important;
+    background: #070A1A !important;
     -webkit-box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.1);
     box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.1);
     padding: 0 15px; }
@@ -1836,7 +1836,7 @@ h1, h2, h3, h4, h5,
       -o-transition: .3s all ease-out;
       transition: .3s all ease-out; }
     .ftco-navbar-light.scrolled .navbar-brand {
-      color: #000000;
+      color: white;
       padding-top: 1rem;
       padding-bottom: 1rem;
       font-size: 24px; }
@@ -2054,14 +2054,14 @@ h1, h2, h3, h4, h5,
       width: calc(100% - 130px); }
       .ftco-about ul.about-info li span:first-child {
         font-weight: 600;
-        color: #000000;
+        color: white;
         width: 130px; }
 
 .ftco-about .counter-wrap .text p {
   font-size: 20px; }
   .ftco-about .counter-wrap .text p span {
     font-weight: 400;
-    color: #000000; }
+    color: white; }
   .ftco-about .counter-wrap .text p span.number {
     font-weight: 600;
     color: #3e64ff; }
@@ -2079,7 +2079,7 @@ h1, h2, h3, h4, h5,
     list-style: none;
     margin-bottom: 10px; }
     #navi li a {
-      color: #000000; }
+      color: white; }
       #navi li a.current {
         color: #3e64ff;
         margin-left: 20px;
@@ -2136,7 +2136,7 @@ h1, h2, h3, h4, h5,
   .resume-wrap .position {
     font-size: 18px;
     font-weight: 700;
-    color: #000000; }
+    color: white; }
 
 .ftco-partner {
   padding: 4em 0 !important; }
@@ -2413,6 +2413,7 @@ textarea.form-control {
   border-radius: 5px; }
   .about-author .desc h3 {
     font-size: 24px; }
+
 
 .ftco-section {
   padding: 7em 0;
