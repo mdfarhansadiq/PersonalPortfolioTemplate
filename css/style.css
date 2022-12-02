@@ -105,7 +105,8 @@ ul ol {
     display: none;
   }
   .pace .pace-progress {
-    background: #c7173c;
+    /* background: #c7173c; */
+    background: #007bff;
     position: fixed;
     z-index: 900;
     top: 0;
@@ -219,6 +220,7 @@ select {
 
 select {
   word-wrap: normal; }
+
 
 button,
 [type="button"],
